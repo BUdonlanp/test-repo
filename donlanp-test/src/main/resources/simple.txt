@@ -1,0 +1,2 @@
+EGit User guide:
+https://wiki.eclipse.org/EGit/User_Guide
